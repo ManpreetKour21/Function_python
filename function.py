@@ -1,5 +1,5 @@
 # def show():
-    #     a=[1,2,3,4,5,]
+#         a=[1,2,3,4,5,]
 #     i=0
 #     max=0
 #     while i<len(a):
@@ -20,19 +20,16 @@
 # show ([1,2,3,4,5,])
 
 
-
-
-
-# # def show():
-# #     s = [3, 5, 7, 34, 2, 89, 2, 5]
-# #     i=0
-# #     max=0
-# #     while i<len(s):
-# #         if s[i]>max:
-# #             max=s[i]
-# #         i+=1
-# #     print(max)
-# # show ()
+# def show():
+#     s = [3, 5, 7, 34, 2, 89, 2, 5]
+#     i=0
+#     max=0
+#     while i<len(s):
+#         if s[i]>max:
+#             max=s[i]
+#         i+=1
+#     print(max)
+# show ()
 
 
 
